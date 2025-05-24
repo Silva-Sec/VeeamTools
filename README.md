@@ -1,4 +1,7 @@
-# Veeam 365 - Tools
-Tools that I have created to facilitate my support activities when working with Veeam 365/VDC.
-I have a good amount of scripts in my local database that I want to public here (eventually)
-Use "as it is".
+# Veeam 365 / VDC Support Tools
+
+Tools I've created to facilitate my support activities when working with Veeam Backup for Microsoft 365 (Veeam 365) and Veeam Data Cloud (VDC).
+
+I have a good collection of scripts stored locally, and I’ll be gradually publishing them here for wider use. These are shared as-is — they’ve been useful in the field and may help others in similar environments.
+
+⚠️ Use **as-is**. This tool is not officially supported or maintained by Veeam. ⚠️
